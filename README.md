@@ -37,9 +37,9 @@ ADMIN-admin/Pass@123
 
 
 # SCREENSHOTS!
-![22](https://github.com/snehal224/IIITN_Hostel_Management_System/assets/76654910/878d883b-9d16-4188-ac54-468c4ce6654c)
 
 
-![33](https://github.com/snehal224/IIITN_Hostel_Management_System/assets/76654910/2a134ae3-b957-4148-ab9f-647926b43b83)
+![22](https://github.com/snehal224/IIITN_hostel_management/assets/76654910/24402531-a206-4b99-b2f2-dacbd3f61634)
+![33](https://github.com/snehal224/IIITN_hostel_management/assets/76654910/f9188938-5c7e-46b7-b554-4b5f25e215cb)
+![44](https://github.com/snehal224/IIITN_hostel_management/assets/76654910/dcbb2ca7-683f-410f-9b2a-7e8261b33bd8)
 
-![44](https://github.com/snehal224/IIITN_Hostel_Management_System/assets/76654910/392525e7-ed98-451f-a178-297f8b904c54)
